@@ -1,2 +1,5 @@
-# myAnimalsCardNFT_web3
-This is myAnimalsCardNFT_web3 scratch from inflearn study.
+# web3-boilerplate
+
+## web3 boilerplate for ReactTS
+
+220106 - first commit
